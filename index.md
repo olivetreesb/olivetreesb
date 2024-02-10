@@ -50,4 +50,9 @@ A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www
 
 ## Full database
 [**Click here to open our database**](https://www.zotero.org/groups/5389905/ucsb-ajp/library). It runs on the open-source bibliographic software [Zotero](https://www.zotero.org). If you are new to it, you might want to look at the instructions and documentation below.
+
+<img src="assets/database-screenshot.jpg" style="display: block; width: 100%; margin-left: auto; margin-right: auto">
+
 ### How to use our Zotero Database
+> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
