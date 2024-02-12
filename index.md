@@ -18,7 +18,7 @@ layout: page-no-menu
 We have curated a few **[introductory resources](#introductory-resources-palestine-101)** below that are a great place to start. If you would like to go further, we also maintain an ever expanding shared **[database](#full-database)** of articles, news stories, social media posts, and links to projects of different kinds, which you can access here too.
 
 ## How can I contribute?
-Please join us in archiving the events, teach-ins, and SJP activities we support by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLScVn7mlhGwQKr48etRbG_0kOLf3RK_-kUMjbYWUa_l8abkaFQ/viewform) to help us document ourselves throughout these urgent and unprecedented times.
+Please join us in archiving the events, teach-ins, and SJP activities we support by [**filling out this form**](https://docs.google.com/forms/d/e/1FAIpQLScVn7mlhGwQKr48etRbG_0kOLf3RK_-kUMjbYWUa_l8abkaFQ/viewform) to help us document ourselves throughout these urgent and unprecedented times.
 
 
 {% include squiggly-line.html %}
