@@ -10,7 +10,6 @@ layout: page-no-menu
 
 <img src="assets/olive-tree.jpg" style="display: block; width: 50%; margin-left: auto; margin-right: auto">
 
-# Welcome
 ## What is Olive Tree SB?
 **Olive Tree SB** is a collection of resources for learning about Palestine, put together by Academics for Justice in Palestine in Santa Barbara, California. 
 
@@ -19,7 +18,8 @@ layout: page-no-menu
 We have curated a few **[introductory resources](#introductory-resources-palestine-101)** below that are a great place to start. If you would like to go further, we also maintain an ever expanding shared **[database](#full-database)** of articles, news stories, social media posts, and links to projects of different kinds, which you can access here too.
 
 ## How can I contribute?
-TBA
+Please join us in archiving the events, teach-ins, and SJP activities we support by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLScVn7mlhGwQKr48etRbG_0kOLf3RK_-kUMjbYWUa_l8abkaFQ/viewform) to help us document ourselves throughout these urgent and unprecedented times.
+
 
 {% include squiggly-line.html %}
 
@@ -48,6 +48,9 @@ A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www
 2. Jewish Voice for Peace 
 3. Boycott, Divest, Sanction Movement
 
+### AJP Winter Break Reading List
+[Click here](https://ajp-database.notion.site/UCSB-AJP-Winter-Break-Reading-List-f1ce080e9b914f10a020b31b2c7d9e78) to see AJP's recommended selection of short articles and online media for Winter Break 2023-2024.
+
 {% include squiggly-line.html %}
 
 # Full database
@@ -61,7 +64,7 @@ It runs on the open-source bibliographic software [Zotero](https://www.zotero.or
 
 ### What's in it?
 The database is organised into six main folders:
-1. Websites with "introduction to palestine" resources.
+1. Websites with "introduction to Palestine" resources.
 2. Book recommendations on Palestine. 
 3. Web resources on Israel’s involvement in repression outside of Palestine.
 4. Web resources on Palestinian solidarity movements around the world.
@@ -71,10 +74,14 @@ The database is organised into six main folders:
 You can browse it through these categories, dozens of thematic tags, or simply search through it.
 
 ### How to use it on your phone
+Click through the slides below to see how to use the database on your phone.
+
+{% include slider.html %}
+
 
 ### How to use it on your desktop
+The database is easier to use on your desktop because everything is visible on one screen.
 
-<img src="assets/database-screenshot.jpg" style="display: block; width: 100%; margin-left: auto; margin-right: auto">
+<img src="assets/6.jpeg" style="display: block; width: 100%; margin-left: auto; margin-right: auto">
 
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
