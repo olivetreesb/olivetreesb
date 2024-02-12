@@ -36,7 +36,8 @@ A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www
 3. [Gaza in Geography](https://www.youtube.com/watch?v=Lpxri63NAcU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=21&pp=iAQB)
 4. [Human Rights, Gaza, and the War on Palestine](https://www.jadaliyya.com/Details/45455/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Human-Rights,-Gaza,-and-the-War-on-Palestine)
 5. [Antisemitism & Anti-Zionism](https://www.jadaliyya.com/Details/45480/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Antisemitism--Anti-Zionism)
-6. The Social History of Gaza (upcoming, 11/14)
+6. [The Social History of Gaza](https://www.youtube.com/watch?v=qgDNwQdRfeA&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=19)
+7. [The Unending war on the Children of Gaza](https://www.youtube.com/watch?v=Srvd68VM5tU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=17)
 
 ### Useful Social Media Accounts to Follow
 1. [tbd]
@@ -44,9 +45,9 @@ A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www
 3. [tbd]
 
 ### Reports from Other Organizations
-1. B’Tselem: The Israeli Information Center for Human Rights in the Occupied Territories
-2. Jewish Voice for Peace 
-3. Boycott, Divest, Sanction Movement
+1. [B’Tselem: The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org/publications)
+2. [Jewish Voice for Peace](https://www.jewishvoiceforpeace.org/2023/10/18/first-steps/)
+3. [Boycott, Divest, Sanction Movement](https://bdsmovement.net/what-is-bds)
 
 ### AJP Winter Break Reading List
 [Click here](https://ajp-database.notion.site/UCSB-AJP-Winter-Break-Reading-List-f1ce080e9b914f10a020b31b2c7d9e78) to see AJP's recommended selection of short articles and online media for Winter Break 2023-2024.
