@@ -74,14 +74,15 @@ The database is organised into six main folders:
 You can browse it through these categories, dozens of thematic tags, or simply search through it.
 
 ### How to use it on your phone
-Click through the slides below to see how to use the database on your phone.
+Click through the slides below to see how to use the database on your phone, and to get an idea of the different elements of the Zotero interface.
 
 {% include slider.html %}
 
 
 ### How to use it on your desktop
-The database is easier to use on your desktop because everything is visible on one screen.
+The database is easier to use on your desktop because all the elements described above are visible on one screen.
 
 <img src="assets/6.jpeg" style="display: block; width: 100%; margin-left: auto; margin-right: auto">
 
 
+For more information on Zotero and how to use it, you might want to review its [Quick Start Guide](https://www.zotero.org/support/quick_start_guide).
