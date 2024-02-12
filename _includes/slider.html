@@ -1,0 +1,218 @@
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+}
+
+/* Slides */
+.mySlides {
+  display: none;
+  padding: 40px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -30px;
+  padding: 10px;
+  color: #888;
+  font-weight: bold;
+  font-size: 30px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  border-width: 0px;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  color: rgb(219, 64, 62);
+}
+
+/* The dot/bullet/indicator container */
+.dot-container {
+    text-align: center;
+    padding: 20px;
+    
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+/* Add a background color to the active dot/circle */
+.active, .dot:hover {
+  background-color: rgb(219, 64, 62);
+}
+
+@media only screen and (min-width: 500px) {
+.slide-container {
+    display: flex;
+//    align-items: center;
+    justify-content: center;
+  }
+  
+  image {
+    max-width: 100%;
+    max-height:100%;
+    float: left;
+  }
+  
+  .text {
+    padding-right: 10px;
+    padding-top: 0px;
+    float: left;
+  }
+
+  .h3 {
+    padding-top: 0px;
+    ;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+ .slide-container {
+ display: block;
+ align-items: center; 
+}
+
+image {
+  max-width: 300px;
+  max-height:500px;
+}
+
+.text {
+  
+}
+}
+
+
+
+</style>
+
+<div class="slideshow-container">
+
+<div class="mySlides">
+  <div class="slide-container">
+      <div class="text">
+        <h4 style="margin-top: 0px">1. Open the Zotero database</h4>
+        <p> At the top you will see a link to <span style="font-weight: bold">"All Items"</span>, which you can follow to open the entire library.</p>
+        <p>Below you will see a list of folders, where we have grouped materials as per the list above.</p>
+      </div>
+      <div class="image">
+        <img src="/assets/carousels/mobile/1.jpg">
+      </div>
+    </div>
+</div>
+
+<div class="mySlides">
+  <div class="slide-container">
+      <div class="text">
+        <h4 style="margin-top: 0px">2. Display the contents of the folder</h4>
+        <p>When you open a folder, you will see any subfolders it contains, and a link to <span style="font-weight: bold">"Items"</span>. Click on it to see the contents of the folder.</p>
+      </div>
+      <div class="image">
+        <img src="/assets/carousels/mobile/2.jpg">
+      </div>
+    </div>
+</div>
+
+<div class="mySlides">
+  <div class="slide-container">
+      <div class="text">
+        <h4 style="margin-top: 0px">3. Open an item </h4>
+        <p>Click on any item to view it in more detail.</p>
+        <p>The <span style="font-weight: bold">magnifying glass button</span> opens the search box. The <span style="font-weight: bold">tag buttton</span> allows you to filter by tags (useful when browsing large folders or the whole library).</p>
+      </div>
+      <div class="image">
+        <img src="/assets/carousels/mobile/3.jpg">
+      </div>
+    </div>
+</div>
+
+<div class="mySlides">
+  <div class="slide-container">
+      <div class="text">
+        <h4 style="margin-top: 0px">4. Scroll through to item details </h4>
+        <p>In this screen you will see all the details we have on a particular item: what it is (a tweet, a newspaper or magazine article, a blog post, a dataset, etc.), who produced it, when, and other bibliographic information.</p>
+      </div>
+      <div class="image">
+        <img src="/assets/carousels/mobile/4.jpg">
+      </div>
+    </div>
+</div>
+
+<div class="mySlides">
+  <div class="slide-container">
+      <div class="text">
+        <h4 style="margin-top: 0px">5. Open the item </h4>
+        <p>Most items have a hyperlink to a web address (URL) associated with them. You can click on it to open that site, but bear in mind that the website may have changed, moved, or been taken offline.</p>
+        <p>With this in mind, we have also created and archived a snapshot of each item, which you can access under the "attachments" section.</p>
+      </div>
+      <div class="image">
+        <img src="/assets/carousels/mobile/5.jpg">
+      </div>
+    </div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+
+<div class="dot-container">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
