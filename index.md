@@ -15,11 +15,10 @@ layout: page-no-menu
 
 ## How do I use it?
 
-We have curated a few **[introductory resources](#introductory-resources-palestine-101)** below that are a great place to start. If you would like to go further, we also maintain an ever expanding shared **[database](#full-database)** of articles, news stories, social media posts, and links to projects of different kinds, which you can access here too.
+We have curated a few **[introductory resources](#introductory-resources-palestine-101)** below that are a great place to start. If you would like to go beyond this, we also maintain an ever expanding shared database of **[further resources](#further-resources)**: books, articles, news stories, social media posts, and links to projects of different kinds, which you can access here too.
 
 ## How can I contribute?
-Please join us in archiving the events, teach-ins, and SJP activities we support by [**filling out this form**](https://docs.google.com/forms/d/e/1FAIpQLScVn7mlhGwQKr48etRbG_0kOLf3RK_-kUMjbYWUa_l8abkaFQ/viewform) to help us document ourselves throughout these urgent and unprecedented times.
-
+- Do you have images, videos, posters, stories, memories or other materials from the events, teach-ins, and SJP activities we support that you would like to share with us? Please join us in archiving them by [**filling out this form**](https://docs.google.com/forms/d/e/1FAIpQLScVn7mlhGwQKr48etRbG_0kOLf3RK_-kUMjbYWUa_l8abkaFQ/viewform). Together we can document ourselves throughout these urgent and unprecedented times.
 
 {% include squiggly-line.html %}
 
@@ -54,12 +53,12 @@ A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www
 
 {% include squiggly-line.html %}
 
-# Full database
+# Further resources
 [**Click here to open our database**](https://www.zotero.org/groups/5389905/ucsb-ajp/library). 
 
 
-### What is it?
-The database is a collection of articles, news stories, social media posts, and links to projects of different kinds. 
+### What is this?
+We've put together a larger database of articles, news stories, social media posts, and links to projects of different kinds. 
 
 It runs on the open-source bibliographic software [Zotero](https://www.zotero.org). If you are new to it, you might want to look at the instructions and documentation below.
 
