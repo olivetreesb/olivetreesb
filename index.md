@@ -10,12 +10,14 @@ layout: page-no-menu
 
 <img src="assets/olive-tree.jpg" style="display: block; width: 50%; margin-left: auto; margin-right: auto">
 
+{% include nav-menu.html %}
+
 ## What is Olive Tree SB?
 **Olive Tree SB** is a collection of resources for learning about Palestine, put together by Academics for Justice in Palestine in Santa Barbara, California. 
 
 ## How do I use it?
 
-We have curated a few **[introductory resources](#introductory-resources-palestine-101)** below that are a great place to start. If you would like to go beyond this, we also maintain an ever expanding shared database of **[further resources](#further-resources)**: books, articles, news stories, social media posts, and links to projects of different kinds, which you can access here too.
+We have curated a few **[introductory resources](#palestine-101)** below that are a great place to start. If you would like to go beyond this, we also maintain an ever expanding shared database of **[further resources](#further-resources)**: books, articles, news stories, social media posts, and links to projects of different kinds, which you can access here too.
 
 ## How can I contribute?
 - Do you have images, videos, posters, stories, memories or other materials from the events, teach-ins, and SJP activities we support that you would like to share with us? Please join us in archiving them by [**filling out this form**](https://docs.google.com/forms/d/e/1FAIpQLScVn7mlhGwQKr48etRbG_0kOLf3RK_-kUMjbYWUa_l8abkaFQ/viewform). Together we can document ourselves throughout these urgent and unprecedented times.
@@ -23,7 +25,8 @@ We have curated a few **[introductory resources](#introductory-resources-palesti
 {% include squiggly-line.html %}
 
 
-# Introductory Resources: Palestine 101
+# Palestine 101
+## Start here: introductory resources
 
 ### Historical Primer (19th-century – 2013)
 - [Beinin, Joel and Lisa Hajjar, “Palestine, Israel and the Arab-Israeli Conflict: A Primer.” (Washington, DC: Middle East Research and Information Project, 2014).](https://merip.org/palestine-israel-primer/)
@@ -54,8 +57,7 @@ A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www
 {% include squiggly-line.html %}
 
 # Further resources
-[**Click here to open our database**](https://www.zotero.org/groups/5389905/ucsb-ajp/library). 
-
+<a href="https://www.zotero.org/groups/5389905/ucsb-ajp/library"><button class="button">Click here to open our database</button></a>
 
 ### What is this?
 We've put together a larger database of articles, news stories, social media posts, and links to projects of different kinds. 
