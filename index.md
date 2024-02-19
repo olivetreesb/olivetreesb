@@ -19,14 +19,13 @@ layout: page-no-menu
 
 We have curated a few *[introductory resources](#palestine-101-introductory-resources)* below that are a great place to start. If you would like to go beyond this, we also maintain an ever expanding shared database of *[further resources](#further-resources)*: books, articles, news stories, social media posts, and links to projects of different kinds, which you can access here too.
 
-
-
 {% include squiggly-line.html %}
 ## What's going on at UCSB
-
 ### The latest on campus
+[TBA]
 
 ### Coming up 
+[TBA]
 
 ### Folow us and get involved
 - [*UCSB Students for Justice in Palestine*](https://www.instagram.com/ucsbsjp/?hl=en)
@@ -149,11 +148,12 @@ A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www
 - [*Electronic Intifada*](https://electronicintifada.net/).
 - [*972 Magazine*](https://www.972mag.com/).
 
-## Other Organizations
-- [B’Tselem: The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org/publications)
+## Organizations to know about
+- [B’Tselem: *The Israeli Information Center for Human Rights in the Occupied Territories*](https://www.btselem.org/publications)
 - [If Not Now Movement](https://www.ifnotnowmovement.org)
 - [Amnesty International: *Israel and Occupied Palestinian Territories*](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/)
 - [Human Rights Watch](https://www.hrw.org/middle-east/north-africa/israel/palestine)
+- [African Community Society](https://www.afropalestinians.org/)
 
 {% include squiggly-line.html %}
 
