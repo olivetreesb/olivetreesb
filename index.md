@@ -13,7 +13,7 @@ layout: page-no-menu
 {% include nav-menu.html %}
 
 ## What is Olive Tree SB?
-**Olive Tree SB** is a collection of resources for learning about Palestine, put together by Academics for Justice in Palestine in Santa Barbara, California. 
+*Olive Tree SB* is a collection of resources for learning about Palestine, put together by Academics for Justice in Palestine in Santa Barbara, California.
 
 ## How do I use it?
 
@@ -24,7 +24,7 @@ We have curated a few *[introductory resources](#palestine-101-introductory-reso
 ### The latest on campus
 [TBA]
 
-### Coming up 
+### Coming up
 [TBA]
 
 ### Folow us and get involved
@@ -73,23 +73,11 @@ We have curated a few *[introductory resources](#palestine-101-introductory-reso
 - [Euro-Med Human Rights Monitor Infographics](https://euromedmonitor.org/en/category/19/Infographic).
 - [Artists Against Apartheid](https://againstapartheid.art/).
 
-### Palestinian art in museum collections
-- [*Samia Halaby* at MSU Broad Art Museum](https://broadmuseum.msu.edu/exhibition/samia-halaby-eye-witness/)
-- [*Basel Abbas* and *Ruanne Abou-Rahme* at MoMA](https://www.moma.org/calendar/exhibitions/5272)
-- [*Mona Hatoum* at MoMA](https://www.moma.org/artists/7447)
-- [*Emily Jacir* at Guggenheim NY](https://www.guggenheim.org/exhibition/the-hugo-boss-prize-2008-emily-jacir)
-- [*Larissa Sansour* at Brooklyn Museum](https://www.brooklynmuseum.org/eascfa/about/feminist_art_base/larissa-sansour)
-- [*Sharif Waked* at Guggenheim NY](https://www.guggenheim.org/artwork/24754)
-- [*Tarik Kiswanson* at Centre Pompidou](https://www.youtube.com/watch?v=sBd3o9u1Nl8)
-
 ### Palestinian museums and galleries
 - [Bir Zeit University Museum](http://museum.birzeit.edu/)
 - [Dar Yusuf Jacir for Art and Research](https://darjacir.com/Home-Page)
-- [Gallery One Ramallah](https://www.instagram.com/galleryoneramallah/?hl=en)
-- [Eltiqa Gallery in Gaza](https://www.facebook.com/eltiqagallery)
 - [Palestine Museum (US)](https://www.palestinemuseum.us/)
 - [The Palestinian Museum](https://www.palmuseum.org/en)
-- [A M Qattan Foundation](https://qattanfoundation.org/en/cap)
 - [Shababek artist space & gallery, Gaza](https://www.artwfg.ps/)
 - [Zawyeh Gallery](https://zawyeh.net/zawyeh-gallery-dubai-ramallah/)
 
@@ -161,14 +149,14 @@ A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www
 <a href="https://www.zotero.org/groups/5389905/ucsb-ajp/library"><button class="button">Click here to open our database</button></a>
 
 ### What is this?
-We've put together a larger database of articles, news stories, social media posts, and links to projects of different kinds. 
+We've put together a larger database of articles, news stories, social media posts, and links to projects of different kinds.
 
 It runs on the open-source bibliographic software [Zotero](https://www.zotero.org). If you are new to it, you might want to look at the instructions and documentation below.
 
 ### What's in it?
 The database is organised into six main folders:
 1. Websites with "introduction to Palestine" resources.
-2. Book recommendations on Palestine. 
+2. Book recommendations on Palestine.
 3. Web resources on Israel’s involvement in repression outside of Palestine.
 4. Web resources on Palestinian solidarity movements around the world.
 5. Web resources to the BDS movement and the people doing this work.
