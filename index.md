@@ -45,21 +45,23 @@ We have curated a few *[introductory resources](#palestine-101-introductory-reso
 - [Literary Hub's *Forty Books to understand Palestine*](https://lithub.com/40-books-to-understand-palestine/?fbclid=PAAabGrUfYHkNr_fwdwFKctUbMdu7M4f18B7a-nAn_fzDBEFZNe2-T93lnzE4_aem_AUGKvLzZ3UbLq6j8Naw20PJi-rK9oD9nQB5Myh8KX_ckUDp2aqvK-PBdwysF-PQrvmE).
 - [The PYM *Reading List*](https://palestinianyouthmovement.com/reading-list).
 - [AJP *Winter Break Reading List*](https://ajp-database.notion.site/UCSB-AJP-Winter-Break-Reading-List-f1ce080e9b914f10a020b31b2c7d9e78).
+- [MERIP *Suggested Reading List on Settler Colonialism*](https://merip.org/2022/05/a-suggested-reading-list-on-settler-colonialism/).
+- [Skin Deep *Palestine Solidarity Reading List*](https://skindeepmag.com/articles/reading-list-for-palestine-jenin-refugee-camp-solidarity-books-poetry/).
 
 ## Palestine Studies
+- [Institute for Palestine Studies](https://www.palestine-studies.org)
 - [Columbia Center for Palestine Studies](https://palestine.mei.columbia.edu/beyond-columbia).
 - [*Journal of Palestine Studies*](https://www.tandfonline.com/toc/rpal20/current).
 - [Rutgers CSRR *Resources on Palestinian Human Rights*](https://csrr.rutgers.edu/resources/palestinefacts/)
 
 ## Practical resources for taking action
+- [Palestinian Feminist Collective *Digital Action Toolkit*](https://palestinianfeministcollective.org/all-out-for-palestine/).
 - [The Ceasefire Now *Public Toolkit*](https://docs.google.com/document/d/1hpHkM9KlH5Yn3xq7nk9xfPtIkWZDblWnCKD8xt5DBx0/edit?mc_cid=c8137117f7&mc_eid=4664f66718).
 - [Jewish Voice for Peace: *First Steps to Stand for Palestinian Freedom*](https://www.jewishvoiceforpeace.org/2023/10/18/first-steps/).
 - [*Queers in Palestine* Appeal](https://queersinpalestine.noblogs.org/).
 - [Environmental Justice in Palestine Toolkit](https://www.intersectionalenvironmentalist.com/toolkits/a-digital-toolkit-exploring-environmental-justice-in-palestine).
 - [Palestine Online Classroom *Palestinian Justice Syllabus*](https://www.poconlineclassroom.com/syllabi/palestinian-justice).
-- [Palestinian Feminist Collective *Digital Action Toolkit*](https://palestinianfeministcollective.org/all-out-for-palestine/).
 - [Teach Palestine](https://teachpalestine.org/).
-
 
 ## Poetry and literature on Palestine
 - [*Mizna*: Works By Palestinian Artists, Activists, And Cultural Workers](https://mizna.org/mizna-news/towards-a-free-palestine/#Works-by-Palestinians).
@@ -74,12 +76,12 @@ We have curated a few *[introductory resources](#palestine-101-introductory-reso
 - [Artists Against Apartheid](https://againstapartheid.art/).
 
 ### Palestinian museums and galleries
-- [Bir Zeit University Museum](http://museum.birzeit.edu/)
-- [Dar Yusuf Jacir for Art and Research](https://darjacir.com/Home-Page)
-- [Palestine Museum (US)](https://www.palestinemuseum.us/)
-- [The Palestinian Museum](https://www.palmuseum.org/en)
-- [Shababek artist space & gallery, Gaza](https://www.artwfg.ps/)
-- [Zawyeh Gallery](https://zawyeh.net/zawyeh-gallery-dubai-ramallah/)
+- [Bir Zeit University Museum](http://museum.birzeit.edu/).
+- [Dar Yusuf Jacir for Art and Research](https://darjacir.com/Home-Page).
+- [Palestine Museum (US)](https://www.palestinemuseum.us/).
+- [The Palestinian Museum](https://www.palmuseum.org/en).
+- [Shababek artist space & gallery, Gaza](https://www.artwfg.ps/).
+- [Zawyeh Gallery](https://zawyeh.net/zawyeh-gallery-dubai-ramallah/).
 
 ## Teach-in videos
 ### Gaza in Context
