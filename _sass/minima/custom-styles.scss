@@ -55,7 +55,13 @@ a:hover, a:focus {
   scroll-behavior: smooth;
 }
 
-body, p, li, h1, h2, h3, h4, h5, button { 
+body, p, li {
+  font-family: 'Lora', serif;
+ /* color: #464646; */
+  color: #414141;
+}
+
+h1, h2, h3, h4, h5, button {
   font-family: 'Lora', serif;
  /* color: #464646; */
   color: #414141;
@@ -105,14 +111,14 @@ body, p, li, h1, h2, h3, h4, h5, button {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    margin-right: auto; 
-    margin-left: auto; 
+    margin-right: auto;
+    margin-left: auto;
     margin-top: 1rem;
     text-align: center;
 }
 
 .nav-item {
-    padding-right: 0.5rem; 
+    padding-right: 0.5rem;
     padding-left: 0.5rem;
     display: inline-block;
     font-size: 1.25rem;
@@ -141,14 +147,14 @@ body, p, li, h1, h2, h3, h4, h5, button {
     margin-left: 10%;
     margin-right: 10%;
     padding: 0;
-    margin-right: auto; 
-    margin-left: auto; 
+    margin-right: auto;
+    margin-left: auto;
     margin-top: 1rem;
     text-align: center;
 }
 
 .nav-item-small {
-    padding-right: 0.25rem; 
+    padding-right: 0.25rem;
     padding-left: 0.25rem;
     display: inline-block;
     font-size: 1rem;
@@ -173,8 +179,8 @@ body, p, li, h1, h2, h3, h4, h5, button {
 
 // Code for big red button to open Zotero database
 .button {
-  background-color: white; 
-  color: black; 
+  background-color: white;
+  color: black;
   border: 2px solid rgb(219, 64, 62);
   padding: 16px 32px;
   text-align: center;
