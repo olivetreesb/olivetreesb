@@ -28,15 +28,15 @@ We have curated a few *[introductory resources](#palestine-101-introductory-reso
 [TBA]
 
 ### Folow us and get involved
-- [*UCSB Students for Justice in Palestine*](https://www.instagram.com/ucsbsjp/?hl=en)
-- [*UC Divest Coalition at UCSB*](https://www.instagram.com/ucsbdivest/?ref=journal%20Instagram&hl=en)
+- [*UCSB Students for Justice in Palestine*](https://www.instagram.com/ucsbsjp/?hl=en).
+- [*UC Divest Coalition at UCSB*](https://www.instagram.com/ucsbdivest/?ref=journal%20Instagram&hl=en).
 
 
 {% include squiggly-line.html %}
 
 # Palestine 101: introductory resources
 ## Historical Primer (19th-century – 2013)
-- [Beinin, Joel and Lisa Hajjar, “Palestine, Israel and the Arab-Israeli Conflict: A Primer.” (Washington, DC: Middle East Research and Information Project, 2014).](https://merip.org/palestine-israel-primer/)
+- [Beinin, Joel and Lisa Hajjar, “Palestine, Israel and the Arab-Israeli Conflict: A Primer.” (Washington, DC: Middle East Research and Information Project, 2014).](https://merip.org/palestine-israel-primer/).
 - [The Decolonize Palestine *Primer*](https://decolonizepalestine.com/introduction-to-palestine/).
 
 ## Basic reading lists
@@ -49,7 +49,7 @@ We have curated a few *[introductory resources](#palestine-101-introductory-reso
 - [Skin Deep *Palestine Solidarity Reading List*](https://skindeepmag.com/articles/reading-list-for-palestine-jenin-refugee-camp-solidarity-books-poetry/).
 
 ## Palestine Studies
-- [Institute for Palestine Studies](https://www.palestine-studies.org)
+- [Institute for Palestine Studies](https://www.palestine-studies.org).
 - [Columbia Center for Palestine Studies](https://palestine.mei.columbia.edu/beyond-columbia).
 - [*Journal of Palestine Studies*](https://www.tandfonline.com/toc/rpal20/current).
 - [Rutgers CSRR *Resources on Palestinian Human Rights*](https://csrr.rutgers.edu/resources/palestinefacts/)
@@ -86,25 +86,25 @@ We have curated a few *[introductory resources](#palestine-101-introductory-reso
 ## Teach-in videos
 ### Gaza in Context
 A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www.jadaliyya.com).
-1. [Gaza 101](https://www.youtube.com/watch?v=aAKWgcpeYNo)
-2. [Gaza in History](https://www.youtube.com/watch?v=tnyYDLMz95g&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=2)
-3. [Gaza in Geography](https://www.youtube.com/watch?v=Lpxri63NAcU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=21&pp=iAQB)
-4. [Human Rights, Gaza, and the War on Palestine](https://www.jadaliyya.com/Details/45455/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Human-Rights,-Gaza,-and-the-War-on-Palestine)
-5. [Antisemitism & Anti-Zionism](https://www.jadaliyya.com/Details/45480/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Antisemitism--Anti-Zionism)
-6. [The Social History of Gaza](https://www.youtube.com/watch?v=qgDNwQdRfeA&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=19)
-7. [The Unending war on the Children of Gaza](https://www.youtube.com/watch?v=Srvd68VM5tU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=17)
+1. [Gaza 101](https://www.youtube.com/watch?v=aAKWgcpeYNo).
+2. [Gaza in History](https://www.youtube.com/watch?v=tnyYDLMz95g&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=2).
+3. [Gaza in Geography](https://www.youtube.com/watch?v=Lpxri63NAcU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=21&pp=iAQB).
+4. [Human Rights, Gaza, and the War on Palestine](https://www.jadaliyya.com/Details/45455/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Human-Rights,-Gaza,-and-the-War-on-Palestine).
+5. [Antisemitism & Anti-Zionism](https://www.jadaliyya.com/Details/45480/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Antisemitism--Anti-Zionism).
+6. [The Social History of Gaza](https://www.youtube.com/watch?v=qgDNwQdRfeA&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=19).
+7. [The Unending war on the Children of Gaza](https://www.youtube.com/watch?v=Srvd68VM5tU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=17).
 
 ## Legal resources
-- [Palestine Legal](https://palestinelegal.org/resources)
-- [Center for Constitutional Rights](https://ccrjustice.org/home/get-involved/tools-resources)
-- [US Campaign for Palestinian Rights](https://uscpr.org/resources/)
+- [Palestine Legal](https://palestinelegal.org/resources).
+- [Center for Constitutional Rights](https://ccrjustice.org/home/get-involved/tools-resources).
+- [US Campaign for Palestinian Rights](https://uscpr.org/resources/).
 - [Asian American Advocacy Fund *Resources for Palestine*](https://asianamericanadvocacyfund.org/resources-for-palestine)
-- [Palestine Solidarity Campaign](https://palestinecampaign.org/)
+- [Palestine Solidarity Campaign](https://palestinecampaign.org/).
 
 ## Resources on the Boycott, Divest, Sanction Movement
-- [BDS Movement: What is BDS?](https://bdsmovement.net/what-is-bds)
-- [US Campaign for the Academic and Cultural Boycott of Israel](https://usacbi.org/)
-- [PACBI Guidelines for the International Cultural Boycott of Israel](https://bdsmovement.net/tags/pacbi-key-documents)
+- [BDS Movement: What is BDS?](https://bdsmovement.net/what-is-bds).
+- [US Campaign for the Academic and Cultural Boycott of Israel](https://usacbi.org/).
+- [PACBI Guidelines for the International Cultural Boycott of Israel](https://bdsmovement.net/tags/pacbi-key-documents).
 
 
 ## Useful Social Media Accounts to Follow
@@ -132,18 +132,18 @@ A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www
 - [Famous Palestinians](https://www.instagram.com/famous_palestinians/)
 
 ## News Organizations
-- [*Middle East Eye*](https://www.middleeasteye.net/).
-- [*Mondo Weiss*](https://mondoweiss.net/).
-- [*Jadaliyya*](https://www.jadaliyya.com/).
-- [*Electronic Intifada*](https://electronicintifada.net/).
-- [*972 Magazine*](https://www.972mag.com/).
+- [*Middle East Eye*](https://www.middleeasteye.net/)
+- [*Mondo Weiss*](https://mondoweiss.net/)
+- [*Jadaliyya*](https://www.jadaliyya.com/)
+- [*Electronic Intifada*](https://electronicintifada.net/)
+- [*972 Magazine*](https://www.972mag.com/)
 
 ## Organizations to know about
-- [B’Tselem: *The Israeli Information Center for Human Rights in the Occupied Territories*](https://www.btselem.org/publications)
-- [If Not Now Movement](https://www.ifnotnowmovement.org)
-- [Amnesty International: *Israel and Occupied Palestinian Territories*](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/)
-- [Human Rights Watch](https://www.hrw.org/middle-east/north-africa/israel/palestine)
-- [African Community Society](https://www.afropalestinians.org/)
+- [B’Tselem: *The Israeli Information Center for Human Rights in the Occupied Territories*](https://www.btselem.org/publications).
+- [If Not Now Movement](https://www.ifnotnowmovement.org).
+- [Amnesty International: *Israel and Occupied Palestinian Territories*](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/).
+- [Human Rights Watch](https://www.hrw.org/middle-east/north-africa/israel/palestine).
+- [African Community Society](https://www.afropalestinians.org/).
 
 {% include squiggly-line.html %}
 
