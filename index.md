@@ -20,6 +20,13 @@ layout: page-no-menu
 We have curated a few *[introductory resources](#palestine-101-introductory-resources)* below that are a great place to start. If you would like to go beyond this, we also maintain an ever expanding shared database of *[further resources](#further-resources)*: books, articles, news stories, social media posts, and links to projects of different kinds, which you can access here too.
 
 {% include squiggly-line.html %}
+## I have...
+
+### ...10 minutes to learn about Palestine
+
+### ...1 hour to learn about Palestine
+
+{% include squiggly-line.html %}
 ## What's going on at UCSB
 ### The latest on campus
 [TBA]
