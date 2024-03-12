@@ -10,7 +10,7 @@ layout: page-no-menu
 
 <img src="assets/olive-tree.jpg" style="display: block; width: 50%; margin-left: auto; margin-right: auto">
 
-{% include nav-menu.html %}
+{% include home-menu.html %}
 
 ## What is Olive Tree SB?
 *Olive Tree SB* is a collection of resources for learning about Palestine, put together by Academics for Justice in Palestine in Santa Barbara, California.
