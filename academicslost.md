@@ -15,13 +15,11 @@ layout: page-no-menu
 # Academics Lost
 
 ## Dr. Refaat Alareer
-### Oral historian at the Tamer Institute for Community Education.
+### Historian, Writer, Poet.
 
 <img src="/assets/academicslost/refaatalereer2.jpeg" class="profile">
 
-On December 6, the poet, writer, literature professor, and activist Dr. Refaat Alareer was killed in a targeted Israeli airstrike that also killed his brother, his sister, and four of her children. He is survived by his wife, Nusayba, and their children. Alareer was a professor of literature and creative writing at the Islamic University of Gaza, where he taught since 2007. He was the co-editor of Gaza Unsilenced (2015) and the editor of *Gaza Writes Back: Short Stories from Young Writers in Gaza*, Palestine (2014). In his contribution to the 2022 collection Light in Gaza: Writings Born of Fire, titled “Gaza Asks: When Shall this Pass?”, Refaat writes: It shall pass, I keep hoping. It shall pass, I keep saying. Sometimes I mean it. Sometimes I don’t. And as Gaza keeps gasping for life, we struggle for it to pass, we have no choice but to fight back and to tell her stories. For Palestine. Alareer was also one of the founders of We Are Not Numbers, a nonprofit organization launched in Gaza after Israel’s 2014 attack and dedicated to creating “a new generation of Palestinian writers and thinkers who can bring together a profound change to the Palestinian cause.”
-
-Through his popular Twitter account, “Refaat in Gaza,” Alareer vehemently condemned the ongoing atrocities committed against his people by Israeli forces, as well as the successive U.S. administrations that enabled them. In the wake of his death, Alareer’s heartbreakingly prophetic farewell poem, “If I Must Die,” has been translated into more than 40 languages; it has been read aloud from stages and written on the subway walls; it has been printed onto banners and placards and flags and kites held aloft in ceasefire demonstrations around the world.
+On December 6, the poet, writer, literature professor, and activist Dr. Refaat Alareer was killed in a targeted Israeli airstrike that also killed his brother, his sister, and four of her children. He is survived by his wife, Nusayba, and their children. Alareer was a professor of literature and creative writing at the Islamic University of Gaza, where he taught since 2007. He was the co-editor of Gaza Unsilenced (2015) and the editor of *Gaza Writes Back: Short Stories from Young Writers in Gaza*, Palestine (2014). Alareer was also one of the founders of *We Are Not Numbers*, a nonprofit organization launched in Gaza after Israel’s 2014 attack and dedicated to creating “a new generation of Palestinian writers and thinkers who can bring together a profound change to the Palestinian cause.” ,In the wake of his death, Alareer’s heartbreakingly prophetic farewell poem, “If I Must Die,” has been translated into more than 40 languages; it has been read aloud from stages and written on the subway walls; it has been printed onto banners and placards and flags and kites held aloft in ceasefire demonstrations around the world.
 
 
 ## Dr. Heba Abu Nada
@@ -29,18 +27,32 @@ Through his popular Twitter account, “Refaat in Gaza,” Alareer vehemently co
 
 <img src="/assets/academicslost/HebaAbuNada.jpeg" class="profile">
 
-Novelist, poet, and educator Heba Abu Nada, a beloved figure in the Palestinian literary community and the author of the novel *Oxygen is Not for the Dead*, was killed by an Israeli airstrike in southern Gaza on October 20.
-
-In her final Facebook post, published on October 8, the author wrote:
+Novelist, poet, and educator Heba Abu Nada, a beloved figure in the Palestinian literary community and the author of the novel *Oxygen is Not for the Dead*, was killed by an Israeli airstrike in southern Gaza on October 20. In her final Facebook post, published on October 8, the author wrote:
 
 *Gaza’s night is dark apart from the glow of rockets, quiet apart from the sound of the bombs, terrifying apart from the comfort of prayer, black apart from the light of the martyrs. Good night, Gaza.*
 
-Abu Nada was educated at Islamic University, Gaza, where she was awarded a bachelor’s degree of biochemistry. She went on to receive a master’s degree in clinical nutrition from Al-Azhar University, Gaza. In 2017, Abu Nada won the Sharjah Award for Arab Creativity for Oxygen is Not for the Dead.
+Abu Nada was educated at Islamic University, Gaza, where she was awarded a bachelor’s degree of biochemistry. She went on to receive a master’s degree in clinical nutrition from Al-Azhar University, Gaza. In 2017, Abu Nada won the Sharjah Award for Arab Creativity for Oxygen is Not for the Dead. You can read two of her final poems, translated from the original Arabic by Huda Fakhreddine, here and here.
 
-You can read two of her final poems, translated from the original Arabic by Huda Fakhreddine, here and here.
+## Belal Jadallah
+### Journalist
+
+<img src="/assets/academicslost/BelalJadallah.jpeg" class="profile">
+max-width: 80%
+max-height: 80%
+}
+
+Belal Jadallah, one of the most beloved and respected journalists in Gaza, was killed on November 21 in the Zeitoun area of Gaza City.
+Known locally as “the godfather of Palestinian journalists,” Jadallah was the founder and chairman of the Gaza Press House—an organization dedicated to training the region’s future journalists and enhancing freedom of expression. He worked closely with many, if not most, of the local journalists in Gaza, helping dozens of aspiring reporters to get started in their careers through his mentorship programs.
+
+## Doaa Al-Masri
+### Librarian
+
+<img src="/assets/academicslost/Doaaalmasri.jpg" class="profile">
+
+Doaa was the librarian at the Edward Said Public Library in Gaza. She was a kind and energetic young woman who organized many activities for children and youth at the library including reading groups, classes, and field trips for schools. Doaa was also a volunteer in many other projects. During each Israeli attack on Gaza, she joined her colleagues at MECA partner Youth Vision Society in procuring, packing, and delivering emergency aid to children and families. Just last week, in the midst of intense Israeli attacks, she joined two other volunteers to provide warm clothes to children in northern Gaza.
+
 
 ## Abdul Karim Hashash
-
 ### Writer, researcher, and educator
 
 <img src="/assets/academicslost/AbdulKarimHashash.png" class="profile">
