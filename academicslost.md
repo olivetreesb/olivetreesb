@@ -38,3 +38,11 @@ In her final Facebook post, published on October 8, the author wrote:
 Abu Nada was educated at Islamic University, Gaza, where she was awarded a bachelor’s degree of biochemistry. She went on to receive a master’s degree in clinical nutrition from Al-Azhar University, Gaza. In 2017, Abu Nada won the Sharjah Award for Arab Creativity for Oxygen is Not for the Dead.
 
 You can read two of her final poems, translated from the original Arabic by Huda Fakhreddine, here and here.
+
+## Abdul Karim Hashash
+
+### Writer, researcher, and educator
+
+<img src="/assets/academicslost/AbdulKarimHashash.png" class="profile">
+
+The writer and Palestinian heritage advocate Abdul Karim Al-Hashash (76 years old), along with many of his family members, was killed on October 23 in the city of Rafah. Al-Hashash was known for his teaching, as well as his writings on Palestinian folk heritage and his research on Bedouin heritage, customs, and Arab proverbs. He also collected dozens of rare books about Palestine, its history, and its heritage in his library.
