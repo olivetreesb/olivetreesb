@@ -17,7 +17,7 @@ layout: page-no-menu
 ## Dr. Refaat Alareer
 ### Historian, Writer, Poet.
 
-<img src="/assets/academicslost/refaatalereer2.jpeg" class="profile">
+<img src="/assets/academicslost/refaatalereer2.jpeg" id="profile">
 
 On December 6, the poet, writer, literature professor, and activist Dr. Refaat Alareer was killed in a targeted Israeli airstrike that also killed his brother, his sister, and four of her children. He is survived by his wife, Nusayba, and their children. Alareer was a professor of literature and creative writing at the Islamic University of Gaza, where he taught since 2007. He was the co-editor of Gaza Unsilenced (2015) and the editor of *Gaza Writes Back: Short Stories from Young Writers in Gaza*, Palestine (2014). Alareer was also one of the founders of *We Are Not Numbers*, a nonprofit organization launched in Gaza after Israel’s 2014 attack and dedicated to creating “a new generation of Palestinian writers and thinkers who can bring together a profound change to the Palestinian cause.” ,In the wake of his death, Alareer’s heartbreakingly prophetic farewell poem, “If I Must Die,” has been translated into more than 40 languages; it has been read aloud from stages and written on the subway walls; it has been printed onto banners and placards and flags and kites held aloft in ceasefire demonstrations around the world.
 
