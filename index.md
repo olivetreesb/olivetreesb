@@ -23,7 +23,8 @@ We have curated a few *[introductory resources](#palestine-101-introductory-reso
 ## I have...
 
 ### ...10 minutes to learn about Palestine
-
+[Palestinian Feminist Collective Digital Action Toolkit: Palestine through six talking points 
+](https://palestinianfeministcollective.org/wp-content/uploads/2023/10/All_Out_Palestine_Toolkit_3.0.pdf)
 ### ...1 hour to learn about Palestine
 
 {% include squiggly-line.html %}

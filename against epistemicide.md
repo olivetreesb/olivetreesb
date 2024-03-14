@@ -12,7 +12,10 @@ layout: page-no-menu
 
 {% include nav-menu.html %}
 
-# In memorium
+# Against Epistemicide
+Epistemicide is the erasure of knowledge. It is one of the conditions of genocide we witness in Gaza today: the death of journalists, scholars, writers, artists, and other
+creatives alongside the leveling of universities, schools, and the destruction of archives. As knowledge-makers, we mourn this loss deeply. Below are individuals whose contribution shall not be forgotten.
+
 
 ## Dr. Refaat Alareer
 ### Historian, Writer, Poet.
