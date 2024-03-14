@@ -1,6 +1,6 @@
 ---
 layout: page-no-menu
-title: Resources on Palestine
+title: Resources on
 ---
 
 {% include nav-menu.html %}
