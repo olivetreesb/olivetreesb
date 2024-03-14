@@ -27,12 +27,6 @@ We have curated a few *[introductory resources](#palestine-101-introductory-reso
 ### ...1 hour to learn about Palestine
 
 {% include squiggly-line.html %}
-## What's going on at UCSB
-### The latest on campus
-[TBA]
-
-### Coming up
-[TBA]
 
 ### Folow us and get involved
 - [*UCSB Students for Justice in Palestine*](https://www.instagram.com/ucsbsjp/?hl=en).
