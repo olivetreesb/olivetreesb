@@ -1,21 +1,16 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: page-no-menu
+title: Against Epistemicide
 ---
 
-<img src="assets/olive-tree.jpg" style="display: block; width: 50%; margin-left: auto; margin-right: auto">
-
 {% include nav-menu.html %}
+{% include squiggly-line.html %}
 
-# Against Epistemicide
+## What is epistemicide?
 Epistemicide is the erasure of knowledge. It is one of the conditions of genocide we witness in Gaza today: the death of journalists, scholars, writers, artists, and other
 creatives alongside the leveling of universities, schools, and the destruction of archives. As knowledge-makers, we mourn this loss deeply. Below are individuals whose contribution shall not be forgotten.
 
+{% include squiggly-line.html %}
 
 ## Dr. Refaat Alareer
 ### Historian, Writer, Poet.
