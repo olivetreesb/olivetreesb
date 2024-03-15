@@ -52,13 +52,13 @@ title: Start here
 
 - [Gaza 101](https://www.youtube.com/watch?v=aAKWgcpeYNo)
 
-- [Gaza in History](https://www.youtube.com/watch?v=tnyYDLMz95g&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=2
+- [Gaza in History](https://www.youtube.com/watch?v=tnyYDLMz95g&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=2)
 
 - [Gaza in Geography](https://www.youtube.com/watch?v=Lpxri63NAcU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=21&pp=iAQB)
 
 - [Human Rights, Gaza, and the War on Palestine](https://www.jadaliyya.com/Details/45455/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Human-Rights,-Gaza,-and-the-War-on-Palestine)
 
-- [Antisemitism & Anti-Zionism](https://www.jadaliyya.com/Details/45480/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Antisemitism--Anti-Zionism
+- [Antisemitism & Anti-Zionism](https://www.jadaliyya.com/Details/45480/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Antisemitism--Anti-Zionism)
 
 - [The Social History of Gaza](https://www.youtube.com/watch?v=qgDNwQdRfeA&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=19)
 
@@ -96,4 +96,4 @@ title: Start here
 
 ## I have more time to learn about Palestine
 
-Visit our page - [*Learn more about Palestine*](//pages/learn.md).
+Visit our page - [*Learn more about Palestine*](/learn).
