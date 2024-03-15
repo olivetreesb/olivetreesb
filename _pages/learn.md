@@ -40,18 +40,6 @@ title: Learn more about Palestine
 - [Shababek artist space & gallery, Gaza](https://www.artwfg.ps/).
 - [Zawyeh Gallery](https://zawyeh.net/zawyeh-gallery-dubai-ramallah/).
 
-## Teach-in videos
-### Gaza in Context
-A collaborative series of teach-ins on YouTube hosted by [Jadaliyya](https://www.jadaliyya.com).
-1. [Gaza 101](https://www.youtube.com/watch?v=aAKWgcpeYNo).
-2. [Gaza in History](https://www.youtube.com/watch?v=tnyYDLMz95g&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=2).
-3. [Gaza in Geography](https://www.youtube.com/watch?v=Lpxri63NAcU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=21&pp=iAQB).
-4. [Human Rights, Gaza, and the War on Palestine](https://www.jadaliyya.com/Details/45455/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Human-Rights,-Gaza,-and-the-War-on-Palestine).
-5. [Antisemitism & Anti-Zionism](https://www.jadaliyya.com/Details/45480/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Antisemitism--Anti-Zionism).
-6. [The Social History of Gaza](https://www.youtube.com/watch?v=qgDNwQdRfeA&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=19).
-7. [The Unending war on the Children of Gaza](https://www.youtube.com/watch?v=Srvd68VM5tU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=17).
-
-
 {% include squiggly-line.html %}
 
 # Further reading
