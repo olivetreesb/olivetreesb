@@ -42,28 +42,40 @@ title: Start here
 [- Palestinian Feminist Collective Digital Action Toolkit: Palestine through six talking points
 ](https://palestinianfeministcollective.org/wp-content/uploads/2023/10/All_Out_Palestine_Toolkit_3.0.pdf)
 
-{% include squiggly-line.html %}
+###  Watch this:
 
-## I have 1 hour to learn about Palestine
+[- Status Audio-Visual Magazine "Gaza in Context"](https://www.youtube.com/watch?v=bmRPkfAN2EU&rco=1)
 
-### Read this:
+[- "Visualizing Palestine i.e. “Six Wars Old: Sixteen Years of Childhood in Gaza,” November, 2023"](https://www.visualizingpalestine.org/visuals/six-wars-old?locale=en)
 
-### Watch this:
+[-Emergency teach ins (on the lighter side of the genocide)](https://youtube.com/playlist?list=PLLkT5TSHWFSYx39LRyBzXT0gsZU-sPVhM&si=MH7-HnHhN3AwhbgQ)
 
 ### Listen to this:
 
-### Look at this:
+[-Noura Erakat, “In This Moment,” (speech at Palestine Festival of Literature), November 1, 2023.](https://www.youtube.com/watch?v=1YavyF186PA)
+
+[- The Social History of Gaza(teach-in with Abher Al-Saqqa, Rana Barakat, and Bassam Haddad), Jadaliyya, November 14, 2023."](https://www.youtube.com/watch?v=qgDNwQdRfeA&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=20)
 
 {% include squiggly-line.html %}
+
 
 ## I have 1 day to learn about Palestine
 
 ### Read this:
 
+[- Khalidi, Rashid. The iron cage: The story of the Palestinian struggle for statehood. Beacon Press, 2007.
+](https://archive.org/details/ironcagestoryofp00khal)
+
 ### Watch this:
+[- Farha, Darin J. Sallam, 2021.](https://www.netflix.com/title/81612982)
+
 
 ### Listen to this:
-
-### Look at this:
+[- Antisemitism and Anti-Zionism (teach-in with Adam Horowitz, Sherene Seikaly, John Reynolds, and Shira Robinson), Jadaliyya, November 7, 2023.](https://www.jadaliyya.com/Details/45480/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Antisemitism--Anti-Zionism)
+["""Gaza in History"" (teach-in with Beshara Doumani, Ilana Feldman, and Sherene Seikaly), Jadaliyya, October 26, 2023."](https://www.youtube.com/watch?v=tnyYDLMz95g&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=3   )
 
 {% include squiggly-line.html %}
+
+## I have more time to learn about Palestine
+
+Visit our page <href="#basic-reading-lists">Reading lists</a></li>
