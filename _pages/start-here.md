@@ -16,7 +16,7 @@ title: Start here
 
 {% include squiggly-line.html %}
 # Start here
-## I have 30 minutes to learn about Palestine
+## I have 1 hour to learn about Palestine
 ### Read this:
 [- Mohammed El-Kurd, “The Right to Speak for Ourselves,” The Nation, November 27, 2023.						
 ](https://www.thenation.com/article/world/palestinians-claim-the-right-to-narrate/ )
