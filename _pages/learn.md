@@ -15,11 +15,7 @@ title: Learn more about Palestine
 
 {% include squiggly-line.html %}
 
-## Palestine 101
-- [Beinin, Joel and Lisa Hajjar, “Palestine, Israel and the Arab-Israeli Conflict: A Primer.” (Washington, DC: Middle East Research and Information Project, 2014).](https://merip.org/palestine-israel-primer/).
-- [The Decolonize Palestine *Primer*](https://decolonizepalestine.com/introduction-to-palestine/).
-
-## Basic reading lists
+## Curated reading lists on Palestine
 - [Al-Shabaka 2023 *Syllabus*](https://al-shabaka.org/focuses/grounding-the-current-moment-an-al-shabaka-syllabus/).
 - [The Decolonize Palestine *Reading List*](https://decolonizepalestine.com/reading-list/).
 - [Literary Hub's *Forty Books to understand Palestine*](https://lithub.com/40-books-to-understand-palestine/?fbclid=PAAabGrUfYHkNr_fwdwFKctUbMdu7M4f18B7a-nAn_fzDBEFZNe2-T93lnzE4_aem_AUGKvLzZ3UbLq6j8Naw20PJi-rK9oD9nQB5Myh8KX_ckUDp2aqvK-PBdwysF-PQrvmE).
@@ -28,12 +24,8 @@ title: Learn more about Palestine
 - [MERIP *Suggested Reading List on Settler Colonialism*](https://merip.org/2022/05/a-suggested-reading-list-on-settler-colonialism/).
 - [Skin Deep *Palestine Solidarity Reading List*](https://skindeepmag.com/articles/reading-list-for-palestine-jenin-refugee-camp-solidarity-books-poetry/).
 
-## Poetry and literature on Palestine
-- [*Mizna*: Works By Palestinian Artists, Activists, And Cultural Workers](https://mizna.org/mizna-news/towards-a-free-palestine/#Works-by-Palestinians).
-
 ## Visual resources on Palestine
 
-### Start here
 - [Project 48](https://project48.com/).
 - [Visualizing Palestine](https://www.visualizingpalestine.org/).
 - [Palestine Open Maps](https://palopenmaps.org/en#/).
