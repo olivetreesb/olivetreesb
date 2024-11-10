@@ -1,80 +1,97 @@
 ---
 layout: page-no-menu
-title: Learn more about Palestine
+title: Start here
 ---
 
 {% include nav-menu.html %}
 
-<ul class="nav-menu-small" style="">
-    <li class="nav-item-small"><a href="#basic-reading-lists">Reading lists</a></li>
-    <li class="nav-item-small"><a href="#poetry-and-literature-on-palestine">Poetry and literature</a></li>
-    <li class="nav-item-small"><a href="#visual-resources-on-palestine">Visual resources</a></li>
-    <li class="nav-item-small"><a href="#teach-in-videos">Teach-ins</a></li>
-    <li class="nav-item-small"><a href="#further-reading">Further reading</a></li>
-</ul>
+{% include squiggly-line.html %}
+
+## I have...
+- [... 1 hour to learn about Palestine](#i-have-1-hour-to-learn-about-palestine)
+- [... 1 day to learn about Palestine](#i-have-1-day-to-learn-about-palestine)
+- [... even more time to learn about Palestine](/resources)
+
+{% include squiggly-line.html %}
+# Start here
+## I have 1 hour to learn about Palestine
+### Read this:
+- [Mohammed El-Kurd, “The Right to Speak for Ourselves,” The Nation, November 27, 2023.						
+](https://www.thenation.com/article/world/palestinians-claim-the-right-to-narrate/ )
+
+- [Fathi Nimer, “The West Bank Is the Unseen Second Front of Israel’s War on Gaza,” The Nation, November 10, 2023.						
+](https://www.thenation.com/article/world/second-front-of-israel-war-west-bank/)
+
+- [Status Audio-Visual Magazine "Gaza in Context" (20 mins)						
+](https://www.youtube.com/watch?v=bmRPkfAN2EU&rco=1)
+
+- [Rashid Khalidi, “How the US Has Fueled Israel’s Decades-Long War on Palestinians,” LA Times, December 2, 2023.						
+](https://www.latimes.com/opinion/story/2023-12-02/israel-gaza-palestinian-american-history)
+
+- [Sherene Seikaly, “Nakba in the Age of Catastrophe,” Jadaliyya, May 15, 2023.						
+](https://www.jadaliyya.com/Details/45037)
+
+- [Yuval Abraham, “A Mass Assassination Factory: Inside Israel’s Calculate Bombing of Gaza,” +972 Magazine, November 30, 2023.						
+](https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/)
+
+- [Maya Mikdashi, “Can Palestinian Men Be Victims? Gendering Israel’s War on Gaza,” Jadaliyya, July 23, 2014.						
+](https://www.jadaliyya.com/Details/30991 )
+
+- [Palestinian Feminist Collective Digital Action Toolkit: Palestine through six talking points
+](https://palestinianfeministcollective.org/wp-content/uploads/2023/10/All_Out_Palestine_Toolkit_3.0.pdf)
+
+- [*Mizna*: Works By Palestinian Artists, Activists, And Cultural Workers](https://mizna.org/mizna-news/towards-a-free-palestine/#Works-by-Palestinians).
+
+###  Watch this:
+
+- [Status Audio-Visual Magazine "Gaza in Context"](https://www.youtube.com/watch?v=bmRPkfAN2EU&rco=1)
+
+- ["Visualizing Palestine i.e. “Six Wars Old: Sixteen Years of Childhood in Gaza,” November, 2023"](https://www.visualizingpalestine.org/visuals/six-wars-old?locale=en)
+
+- [Emergency teach ins (on the lighter side of the genocide)](https://youtube.com/playlist?list=PLLkT5TSHWFSYx39LRyBzXT0gsZU-sPVhM&si=MH7-HnHhN3AwhbgQ)
+
+- [Gaza 101](https://www.youtube.com/watch?v=aAKWgcpeYNo)
+
+- [Gaza in History](https://www.youtube.com/watch?v=tnyYDLMz95g&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=2)
+
+- [Gaza in Geography](https://www.youtube.com/watch?v=Lpxri63NAcU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=21&pp=iAQB)
+
+- [Human Rights, Gaza, and the War on Palestine](https://www.jadaliyya.com/Details/45455/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Human-Rights,-Gaza,-and-the-War-on-Palestine)
+
+- [Antisemitism & Anti-Zionism](https://www.jadaliyya.com/Details/45480/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Antisemitism--Anti-Zionism)
+
+- [The Social History of Gaza](https://www.youtube.com/watch?v=qgDNwQdRfeA&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=19)
+
+- [The Unending war on the Children of Gaza](https://www.youtube.com/watch?v=Srvd68VM5tU&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=17)
+
+### Listen to this:
+
+- [Noura Erakat, “In This Moment,” (speech at Palestine Festival of Literature), November 1, 2023.](https://www.youtube.com/watch?v=1YavyF186PA)
+
+- [The Social History of Gaza(teach-in with Abher Al-Saqqa, Rana Barakat, and Bassam Haddad), Jadaliyya, November 14, 2023."](https://www.youtube.com/watch?v=qgDNwQdRfeA&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=20)
 
 {% include squiggly-line.html %}
 
-## Curated reading lists on Palestine
-- [Al-Shabaka 2023 *Syllabus*](https://al-shabaka.org/focuses/grounding-the-current-moment-an-al-shabaka-syllabus/).
-- [The Decolonize Palestine *Reading List*](https://decolonizepalestine.com/reading-list/).
-- [Literary Hub's *Forty Books to understand Palestine*](https://lithub.com/40-books-to-understand-palestine/?fbclid=PAAabGrUfYHkNr_fwdwFKctUbMdu7M4f18B7a-nAn_fzDBEFZNe2-T93lnzE4_aem_AUGKvLzZ3UbLq6j8Naw20PJi-rK9oD9nQB5Myh8KX_ckUDp2aqvK-PBdwysF-PQrvmE).
-- [The PYM *Reading List*](https://palestinianyouthmovement.com/reading-list).
-- [AJP *Winter Break Reading List*](https://ajp-database.notion.site/UCSB-AJP-Winter-Break-Reading-List-f1ce080e9b914f10a020b31b2c7d9e78).
-- [MERIP *Suggested Reading List on Settler Colonialism*](https://merip.org/2022/05/a-suggested-reading-list-on-settler-colonialism/).
-- [Skin Deep *Palestine Solidarity Reading List*](https://skindeepmag.com/articles/reading-list-for-palestine-jenin-refugee-camp-solidarity-books-poetry/).
 
-## Visual resources on Palestine
+## I have 1 day to learn about Palestine
 
-- [Project 48](https://project48.com/).
-- [Visualizing Palestine](https://www.visualizingpalestine.org/).
-- [Palestine Open Maps](https://palopenmaps.org/en#/).
-- [Euro-Med Human Rights Monitor Infographics](https://euromedmonitor.org/en/category/19/Infographic).
-- [Artists Against Apartheid](https://againstapartheid.art/).
+### Read this:
 
-### Palestinian museums and galleries
-- [Bir Zeit University Museum](http://museum.birzeit.edu/).
-- [Dar Yusuf Jacir for Art and Research](https://darjacir.com/Home-Page).
-- [Palestine Museum (US)](https://www.palestinemuseum.us/).
-- [The Palestinian Museum](https://www.palmuseum.org/en).
-- [Shababek artist space & gallery, Gaza](https://www.artwfg.ps/).
-- [Zawyeh Gallery](https://zawyeh.net/zawyeh-gallery-dubai-ramallah/).
+- [Khalidi, Rashid. The iron cage: The story of the Palestinian struggle for statehood. Beacon Press, 2007.
+](https://archive.org/details/ironcagestoryofp00khal)
+
+- [Beinin, Joel and Lisa Hajjar, “Palestine, Israel and the Arab-Israeli Conflict: A Primer.” (Washington, DC: Middle East Research and Information Project, 2014).](https://merip.org/palestine-israel-primer/).
+
+- [The Decolonize Palestine *Primer*](https://decolonizepalestine.com/introduction-to-palestine/).
+
+### Watch this:
+- [Farha, Darin J. Sallam, 2021.](https://www.netflix.com/title/81612982)
+
+
+### Listen to this:
+- [Antisemitism and Anti-Zionism (teach-in with Adam Horowitz, Sherene Seikaly, John Reynolds, and Shira Robinson), Jadaliyya, November 7, 2023.](https://www.jadaliyya.com/Details/45480/Gaza-in-Context-A-Collaborative-Teach-In-Series-%E2%80%94-Antisemitism--Anti-Zionism)
+- ["Gaza in History" (teach-in with Beshara Doumani, Ilana Feldman, and Sherene Seikaly), Jadaliyya, October 26, 2023."](https://www.youtube.com/watch?v=tnyYDLMz95g&list=PLLkT5TSHWFSbqXKnNSa3nPJh4yYdk9KGA&index=3)
 
 {% include squiggly-line.html %}
-
-# Further reading
-<a href="https://www.zotero.org/groups/5389905/ucsb-ajp/library"><button class="button">Click here to open our database</button></a>
-
-### What is this?
-We've put together a larger database of articles, news stories, social media posts, and links to projects of different kinds.
-
-It runs on the open-source bibliographic software [Zotero](https://www.zotero.org). If you are new to it, you might want to look at the instructions and documentation below.
-
-### What's in it?
-The database is organised into six main folders:
-1. Websites with "introduction to Palestine" resources.
-2. Book recommendations on Palestine.
-3. Web resources on Israel’s involvement in repression outside of Palestine.
-4. Web resources on Palestinian solidarity movements around the world.
-5. Web resources to the BDS movement and the people doing this work.
-6. Web resources on reporters, analysts, journalists, writers on Palestine working on the ground and beyond.
-
-You can browse it through these categories, dozens of thematic tags, or simply search through it.
-
-### How can I contribute?
-Do you have images, videos, posters, stories, memories or other materials from the events, teach-ins, and SJP activities we support that you would like to share with us? *Please join us in archiving them by [**filling out this form**](https://docs.google.com/forms/d/e/1FAIpQLScVn7mlhGwQKr48etRbG_0kOLf3RK_-kUMjbYWUa_l8abkaFQ/viewform). Together we can document ourselves throughout these urgent and unprecedented times.*
-
-## How to use the database
-### How to use it on your phone
-Click through the slides below to see how to use the database on your phone, and to get an idea of the different elements of the Zotero interface.
-
-{% include slider.html %}
-
-
-### How to use it on your desktop
-The database is easier to use on your desktop because all the elements described above are visible on one screen.
-
-<img src="assets/desktop.jpg" style="display: block; width: 100%; margin-left: auto; margin-right: auto">
-
-
-For more information on Zotero and how to use it, you might want to review its [Quick Start Guide](https://www.zotero.org/support/quick_start_guide).
+# I have more time to learn about Palestine
+Visit our [Resources and further reading page](/resources) for more!
