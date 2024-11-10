@@ -1,6 +1,6 @@
 ---
 layout: page-no-menu
-title: Against Epistemicide
+title: AJP Public Calendar
 ---
 
 {% include nav-menu.html %}
