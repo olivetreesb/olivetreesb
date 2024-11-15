@@ -11,7 +11,7 @@ layout: page-no-menu
 
 ## How do I use it?
 
-We have collected some [resources to start with](/learn), depending on how much time you have to learn about Palestine. If you would like to go beyond this, we also maintain an ever expanding shared database of [further resources](/learn): books, articles, news stories, social media posts, and links to projects of different kinds, which you can access here too. Under the page [resources](/resources) you can find a list of practical resources that can be of help when working on Palestine.
+We have collected some [resources to start with](/learn), depending on how much time you have to learn about Palestine. If you would like to go beyond this, we also maintain an ever expanding shared list of [further resources](/resources): books, articles, news stories, social media posts, and links to projects of different kinds, which you can access here too.
 
 ## Follow us and get involved
 - [*UCSB Students for Justice in Palestine*](https://www.instagram.com/ucsbsjp/?hl=en).
